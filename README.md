@@ -37,18 +37,6 @@ Ao longo de minha busca por conhecimento, tive contato com as seguintes tecnolog
 
 Estou sempre explorando novas ferramentas e linguagens para aprimorar minhas habilidades e permanecer atualizado no mundo da tecnologia.
 
-## 🎮 Hobbies
-
-Quando não estou programando, dedico meu tempo as seguintes atividades:
-
-- 🎮 Videogames
-- 🎶 Música
-- 🥊 Luta
-- 📚 Leitura
-- 🎬📺 Filmes e Séries Geek
-- 🛹 Skate
-
-
 ## 👨‍💻 Cargos
 
 Atualmente, ocupo as seguintes posições:
@@ -59,6 +47,15 @@ Atualmente, ocupo as seguintes posições:
 - **Desenvolvedor Mobile em Gaudium:**
   Onde trabalho atualmente, atuo no desenvolvimento mobile Android e backend, sempre visando melhorar a interação de usuário e escalabilidade de acessos as APIs
 
-  
+## 🎮 Hobbies
+
+Quando não estou programando, dedico meu tempo as seguintes atividades:
+
+- 🎮 Videogames
+- 🎶 Música
+- 🥊 Luta
+- 📚 Leitura
+- 🎬📺 Filmes e Séries Geek
+- 🛹 Skate
 
 Fique à vontade para explorar meus repositórios e entrar em contato se tiver alguma pergunta ou colaboração interessante em mente. Vamos construir algo incrível juntos! 🚀
