@@ -13,7 +13,7 @@ Tive contato com diversas áreas desde que comecei esta jornada, vejo um fascini
 ## Stacks e Techs
 Ao longo de minha busca por conhecimento, tive contato com as seguintes tecnologias:
 
-![Docker](https://img.shields.io/badge/Docker-🥯-blue?style=for-the-badge&logo=docker)
+[![Docker](https://img.shields.io/badge/Docker-🥯-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
 ![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)
 ![Maven](https://img.shields.io/badge/Maven-📦-green?style=for-the-badge&logo=apache-maven)
 ![C](https://img.shields.io/badge/C-🔧-purple?style=for-the-badge&logo=c)
