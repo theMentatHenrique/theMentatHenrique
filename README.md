@@ -12,19 +12,17 @@ Tive contato com diversas áreas desde que comecei esta jornada, vejo um fascini
 
 ## Stacks e Techs
 Ao longo de minha busca por conhecimento, tive contato com as seguintes tecnologias:
-
-[![Docker](https://img.shields.io/badge/Docker-🥯-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)
-![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)
-![Maven](https://img.shields.io/badge/Maven-📦-green?style=for-the-badge&logo=apache-maven)
-![C](https://img.shields.io/badge/C-🔧-purple?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-🔨-blue?style=for-the-badge&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-🔶-brightgreen?style=for-the-badge&logo=c-sharp)
-![PHP](https://img.shields.io/badge/PHP-💻-purple?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-🌐-yellow?style=for-the-badge&logo=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-🗄-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🗄-blue?style=for-the-badge&logo=postgresql)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-☸️-blue?style=for-the-badge&logo=kubernetes)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-🐇-red?style=for-the-badge&logo=rabbitmq)
+[![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%x3D3C43?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
 
 Estou sempre explorando novas ferramentas e linguagens para aprimorar minhas habilidades e permanecer atualizado no mundo da tecnologia.
