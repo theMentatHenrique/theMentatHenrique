@@ -21,9 +21,10 @@ Ao longo de minha busca por conhecimento, tive contato com as seguintes tecnolog
 [![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%003366?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%003366?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 
 
 Estou sempre explorando novas ferramentas e linguagens para aprimorar minhas habilidades e permanecer atualizado no mundo da tecnologia.
