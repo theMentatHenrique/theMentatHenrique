@@ -9,9 +9,11 @@ Tive contato com diversas áreas desde que comecei esta jornada, vejo um fascini
 <a href="mailto:henrique.paim01@edu.pucrs.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>   
 <a href="https://discord.gg/the_mentat_henrique" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 <a href="https://wa.me/551234567890" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white"></a>   
+<a href="https://wa.me/551234567890" target="_blank"><img loading="lazy" src="[https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white](https://camo.githubusercontent.com/bce5c9b25447afefd9c8dc63febce5936fbff659beee51466a130b41a2821a9b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)"></a>   
 
-## 🥯 Stacks e Techs
-Atualmente, estou focado nas seguintes tecnologias, cada uma carregada com meu "selo" de aprovação:
+
+## Stacks e Techs
+Ao longo do tempo e da minha busca por conhecimento, tive contato com as seguintes tecnologias:
 
 - **Linguagens de Programação:** 
   - Python ![Python Badge](https://img.shields.io/badge/Python-🥯-blue)
