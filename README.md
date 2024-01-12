@@ -13,21 +13,19 @@ Tive contato com diversas áreas desde que comecei esta jornada, vejo um fascini
 ## Stacks e Techs
 Ao longo de minha busca por conhecimento, tive contato com as seguintes tecnologias:
 
-- **Linguagens de Programação:** 
-  - Python ![Python Badge](https://img.shields.io/badge/Python-🥯-blue)
-  - JavaScript ![JavaScript Badge](https://img.shields.io/badge/JavaScript-🥯-yellow)
+![Docker](https://img.shields.io/badge/Docker-🥯-blue?style=for-the-badge&logo=docker)
+![Java](https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java)
+![Maven](https://img.shields.io/badge/Maven-📦-green?style=for-the-badge&logo=apache-maven)
+![C](https://img.shields.io/badge/C-🔧-purple?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-🔨-blue?style=for-the-badge&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/C%23-🔶-brightgreen?style=for-the-badge&logo=c-sharp)
+![PHP](https://img.shields.io/badge/PHP-💻-purple?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-🌐-yellow?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-🗄-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🗄-blue?style=for-the-badge&logo=postgresql)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-☸️-blue?style=for-the-badge&logo=kubernetes)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-🐇-red?style=for-the-badge&logo=rabbitmq)
 
-- **Frameworks:** 
-  - Django ![Django Badge](https://img.shields.io/badge/Django-🥯-green)
-  - React ![React Badge](https://img.shields.io/badge/React-🥯-blue)
-
-- **Banco de Dados:** 
-  - PostgreSQL ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-🥯-blue)
-  - MongoDB ![MongoDB Badge](https://img.shields.io/badge/MongoDB-🥯-green)
-
-- **Outras Tecnologias:** 
-  - Docker ![Docker Badge](https://img.shields.io/badge/Docker-🥯-blue)
-  - Git ![Git Badge](https://img.shields.io/badge/Git-🥯-red)
 
 Estou sempre explorando novas ferramentas e linguagens para aprimorar minhas habilidades e permanecer atualizado no mundo da tecnologia.
 
