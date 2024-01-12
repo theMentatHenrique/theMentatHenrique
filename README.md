@@ -5,11 +5,11 @@ Aqui você poderá ver a minha jornada como desenvolvedor a qual trilho com gran
 Me chamo Henrique Feijó Paim, aficcionado por tecnologia desde pequeno, após meu primeiro contato com a linguagem C pela faculdade, descobri que programar é meu propósito de vida.
 Tive contato com diversas áreas desde que comecei esta jornada, vejo um fascinicio por arquitetura de software e sigo me especializando neste ramo com foco na arquitetura de microsserviços e(sempre que possível...) praticando o dilema de "Deixar mais arrumado de que quando entrei".
 ## 📧 Contato
-<a href="https:www.linkedin.com/in/thementathenrik" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="mailto:henrique.paim01@edu.pucrs.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>   
-<a href="https://discord.gg/the_mentat_henrique" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
-<a href="https://wa.me/551234567890" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white"></a>   
-<a href="https://wa.me/551234567890" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/thementathenrik)
+[![Outlook](https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henrique.paim01@edu.pucrs.br)
+[![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/the_mentat_henrique)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551234567890)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551234567890)
 
 ## Stacks e Techs
 Ao longo de minha busca por conhecimento, tive contato com as seguintes tecnologias:
