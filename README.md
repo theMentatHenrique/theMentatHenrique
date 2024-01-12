@@ -39,6 +39,8 @@ Estou sempre explorando novas ferramentas e linguagens para aprimorar minhas hab
 
 ## 🎮 Hobbies
 
+Quando não estou programando, dedico meu tempo as seguintes atividades:
+
 - 🎮 Videogames
 - 🎶 Música
 - 🥊 Luta
@@ -48,8 +50,15 @@ Estou sempre explorando novas ferramentas e linguagens para aprimorar minhas hab
 
 
 ## 👨‍💻 Cargos
+
 Atualmente, ocupo as seguintes posições:
 
-- **Desenvolvedor Full Stack na [Nome da Empresa]:** Responsável por desenvolver soluções inovadoras e garantir a eficiência no código.
+- **Desenvolvedor Full Stack no Banrisul:**
+  Tive a oportunidade de contribuir significativamente para o desenvolvimento tanto do backend quanto do frontend da seção de consórcio do aplicativo Banrisul Digital. Este projeto foi desenvolvido do zero, contando com a dedicação e expertise da minha equipe.
+
+- **Desenvolvedor Mobile em Gaudium:**
+  Onde trabalho atualmente, atuo no desenvolvimento mobile Android e backend, sempre visando melhorar a interação de usuário e escalabilidade de acessos as APIs
+
+  
 
 Fique à vontade para explorar meus repositórios e entrar em contato se tiver alguma pergunta ou colaboração interessante em mente. Vamos construir algo incrível juntos! 🚀
