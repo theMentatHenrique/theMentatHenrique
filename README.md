@@ -1,13 +1,14 @@
-Entendido! Vamos adicionar badges para cada "sela" na stack:
 
-# 👋 Olá, eu sou [Seu Nome]
+#Oi, eu sou o Henrique! 👋
 
-Bem-vindo ao meu espaço no GitHub! Sou um entusiasta da tecnologia e estou sempre em busca de desafios empolgantes. Aqui você encontrará um pouco sobre mim, minhas experiências e o que eu amo fazer.
-
+Aqui você poderá ver a minha jornada como desenvolvedor a qual trilho com grande carinho e dedicação.
+Me chamo Henrique Feijó Paim, aficcionado por tecnologia desde pequeno, após meu primeiro contato com a linguagem C pela faculdade, descobri que programar é meu propósito de vida.
+Tive contato com diversas áreas desde que comecei esta jornada, vejo um fascinicio por arquitetura de software e sigo me especializando neste ramo com foco na arquitetura de microsserviços e(sempre que possível...) praticando o dilema de "Deixar mais arrumado de que quando entrei".
 ## 📧 Contato
-- **E-mail:** seuemail@example.com
-- **LinkedIn:** [Seu Nome no LinkedIn](https://www.linkedin.com/in/seunome/)
-- **Twitter:** [@SeuTwitter](https://twitter.com/seutwitter)
+<a href="https:www.linkedin.com/in/thementathenrik" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="mailto:henrique.paim01@edu.pucrs.br" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>   
+<a href="https://discord.gg/the_mentat_henrique" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
+<a href="https://wa.me/551234567890" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white"></a>   
 
 ## 🥯 Stacks e Techs
 Atualmente, estou focado nas seguintes tecnologias, cada uma carregada com meu "selo" de aprovação:
