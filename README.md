@@ -13,7 +13,9 @@ Estou animado para compartilhar não apenas minhas realizações, mas também os
 [![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/the_mentat_henrique)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551982603703)
 
-
+## Escolaridades
+- Engenharia de Computação na PUCRS (2020/1 - 2021/2, 4 semestres)
+- Ciência da Computação na [Sua Universidade] (2022/1 - Atualmente, 5 semestres)
 ## Stacks e Techs
 Ao longo de minha busca por conhecimento, tive contato com as seguintes tecnologias:
 
