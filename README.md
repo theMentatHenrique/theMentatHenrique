@@ -8,7 +8,7 @@ Tive contato com diversas áreas desde que iniciei essa jornada. Desenvolvi um f
 Estou animado para compartilhar não apenas minhas realizações, mas também os desafios superados e as lições aprendidas ao longo do caminho. Sinta-se à vontade para explorar e entrar em contato para discutirmos sobre tecnologia, arquitetura de software ou qualquer tópico que desperte seu interesse.
 
 ## 📧 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/thementathenrik)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thementathenrik)
 [![Outlook](https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henrique.paim01@edu.pucrs.br)
 [![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/the_mentat_henrique)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551982603703)
