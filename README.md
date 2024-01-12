@@ -9,6 +9,8 @@ Tive contato com diversas áreas desde que comecei esta jornada, vejo um fascini
 [![Outlook](https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henrique.paim01@edu.pucrs.br)
 [![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/the_mentat_henrique)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551982603703)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551982603703)
+
 
 ## Stacks e Techs
 Ao longo de minha busca por conhecimento, tive contato com as seguintes tecnologias:
@@ -23,7 +25,6 @@ Ao longo de minha busca por conhecimento, tive contato com as seguintes tecnolog
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%003366?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 
 
