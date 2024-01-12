@@ -38,11 +38,14 @@ Ao longo de minha busca por conhecimento, tive contato com as seguintes tecnolog
 Estou sempre explorando novas ferramentas e linguagens para aprimorar minhas habilidades e permanecer atualizado no mundo da tecnologia.
 
 ## 🎮 Hobbies
-Fora do mundo do código, eu amo me envolver em diferentes hobbies. Aqui estão alguns deles:
 
-- **Jogos de Tabuleiro:** Uma paixão por estratégia e diversão em grupo.
-- **Fotografia:** Capturar momentos e contar histórias através das lentes.
-- **Música:** Tocar instrumentos e explorar novos estilos musicais.
+- 🎮 Videogames
+- 🎶 Música
+- 🥊 Luta
+- 📚 Leitura
+- 🎬📺 Filmes e Séries Geek
+- 🛹 Skate
+
 
 ## 👨‍💻 Cargos
 Atualmente, ocupo as seguintes posições:
