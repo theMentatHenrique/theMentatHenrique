@@ -58,4 +58,4 @@ Quando não estou programando, dedico meu tempo as seguintes atividades:
 - 🎬📺 Filmes e Séries Geek
 - 🛹 Skate
 
-Fique à vontade para explorar[meus repositórios](https://github.com/theMentatHenrique?tab=repositories) e entrar em contato se tiver alguma pergunta ou colaboração interessante em mente. Vamos construir algo incrível juntos! 🚀
+Fique à vontade para explorar [meus repositórios](https://github.com/theMentatHenrique?tab=repositories) e entrar em contato se tiver alguma pergunta ou colaboração interessante em mente. Vamos construir algo incrível juntos! 🚀
