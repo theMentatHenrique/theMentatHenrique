@@ -8,8 +8,7 @@ Tive contato com diversas áreas desde que comecei esta jornada, vejo um fascini
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/thementathenrik)
 [![Outlook](https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henrique.paim01@edu.pucrs.br)
 [![Discord](https://img.shields.io/badge/-Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/the_mentat_henrique)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551234567890)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551234567890)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551982603703)
 
 ## Stacks e Techs
 Ao longo de minha busca por conhecimento, tive contato com as seguintes tecnologias:
