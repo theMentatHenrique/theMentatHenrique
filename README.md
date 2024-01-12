@@ -1,9 +1,10 @@
 
 # Oi, eu sou o Henrique! 👋
 
-Aqui você poderá ver a minha jornada como desenvolvedor a qual trilho com grande carinho e dedicação.
-Me chamo Henrique Feijó Paim, aficcionado por tecnologia desde pequeno, após meu primeiro contato com a linguagem C pela faculdade, descobri que programar é meu propósito de vida.
-Tive contato com diversas áreas desde que comecei esta jornada, vejo um fascinicio por arquitetura de software e sigo me especializando neste ramo com foco na arquitetura de microsserviços e(sempre que possível...) praticando o dilema de "Deixar mais arrumado de que quando entrei".
+Aqui, você poderá acompanhar a minha jornada como desenvolvedor, a qual percorro com grande carinho e dedicação. Me chamo Henrique Feijó Paim e sou aficionado por tecnologia desde a infância. Após meu primeiro contato com a linguagem C na faculdade, descobri que programar é o meu propósito de vida.
+
+Tive contato com diversas áreas desde que iniciei essa jornada. Desenvolvi um fascínio por arquitetura de software e continuo me especializando neste ramo, com foco na arquitetura de microsserviços e, sempre que possível, praticando o dilema de 'deixar mais arrumado do que quando entrei
+
 ## 📧 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/thementathenrik)
 [![Outlook](https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:henrique.paim01@edu.pucrs.br)
